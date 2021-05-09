@@ -12,6 +12,7 @@ References:
 
 https://portal.chicagopolice.org/portal/page/portal/ClearPath/
 The data is from the above reference.
+
 -----------------------------------------------------------------------
 For the purpose of comparison of classification models we all have used same preprocessed data file.The link to datafile is given below. Both the formats csv and pkl files have been generated.
 
@@ -21,6 +22,7 @@ Link to csv file: https://drive.google.com/file/d/1lWPelpPwscDbsiTgIGXuvNtArosvu
 
 
 Link to pkl file: https://drive.google.com/file/d/1f1XyLCFyLiMmy-DLD0kqmoShnII4ls85/view?usp=sharing
+
 ------------------------------------------------------------------------
 There are 4 folders in this repo.
 
