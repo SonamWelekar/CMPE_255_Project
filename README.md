@@ -26,11 +26,11 @@ Link to pkl file: https://drive.google.com/file/d/1f1XyLCFyLiMmy-DLD0kqmoShnII4l
 ------------------------------------------------------------------------
 There are 4 folders in this repo.
 
-1.Data Processing : This folder contains a notebook which is used to create a processed data file which is used by all the classification models.
-2.Classification_Models :This folder contains the notebooks for 4 different machine learning algorithms for classification.
-3.Dataset : It contains the sample data just to get an idea how the dataset looks like.
-4.Additional_Analysis : This folder contains the extra analysis done on data like clustering , prediction of crime and so forth.
-5.Models to Load and Test on Sample Data: This folder contains a script which can be used run the random forest classification model. It also contains the pickle file for the already trained RF model and sample data pickel file that can be used to evaluate model.
+1. Data Processing : This folder contains a notebook which is used to create a processed data file which is used by all the classification models.
+2. Classification_Models :This folder contains the notebooks for 4 different machine learning algorithms for classification.
+3. Dataset : It contains the sample data just to get an idea how the dataset looks like.
+4. Additional_Analysis : This folder contains the extra analysis done on data like clustering , prediction of crime and so forth.
+5. Models to Load and Test on Sample Data: This folder contains a script which can be used run the random forest classification model. It also contains the pickle file for the already trained RF model and sample data pickel file that can be used to evaluate model.
 
 ---------------------------------------------------------------------------------------
 Instructions to Run the code:
