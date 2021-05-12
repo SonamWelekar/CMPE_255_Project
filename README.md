@@ -24,7 +24,7 @@ Link to csv file: https://drive.google.com/file/d/1lWPelpPwscDbsiTgIGXuvNtArosvu
 Link to pkl file: https://drive.google.com/file/d/1f1XyLCFyLiMmy-DLD0kqmoShnII4ls85/view?usp=sharing
 
 ------------------------------------------------------------------------
-There are 4 folders in this repo.
+There are 5 folders in this repo.
 
 1. Data Processing : This folder contains a notebook which is used to create a processed data file which is used by all the classification models.
 2. Classification_Models :This folder contains the notebooks for 4 different machine learning algorithms for classification.
